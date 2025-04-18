@@ -1,7 +1,9 @@
 # Heraldry Quest
+
 Heraldry Quest is a coat-of-arms quiz.
 
-## Data model  
+## Data model
+
 **Coat of Arms**
 | field | type | info |
 | ----- | ---- | ---- |
@@ -9,4 +11,4 @@ Heraldry Quest is a coat-of-arms quiz.
 | blazon | string | formal description |
 | artist | string | designer of the coat of arms |
 | date_granted | date | date when the coat of arms was granted |
-| image | string | path to the source image file |  
+| image | string | path to the source image file |
