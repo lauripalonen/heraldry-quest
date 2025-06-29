@@ -1,0 +1,2158 @@
+[
+    {
+        "armiger": "Akaa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Akaa.vaakuna.svg",
+        "blazon": "Sakarakoroisesti punaiseen ja hopeaan halkoisella kilvell\u00e4 hopeinen muuriankkuri.",
+        "artist": "Kari J. T\u00e4htinen",
+        "date": "2007-02-28"
+    },
+    {
+        "armiger": "Alaj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Alaj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen aaltokoroinen tyvi\u00f6.",
+        "artist": "Olof Eriksson",
+        "date": "1961-10-16"
+    },
+    {
+        "armiger": "Alavieska",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alavieska.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 ristikk\u00e4in kaksi hopeaviikatetta, joiden ter\u00e4t kultaa.",
+        "artist": "Kaj Kajander",
+        "date": "1960-11-25"
+    },
+    {
+        "armiger": "Alavus",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/T%C3%B6ys%C3%A4.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 nyh\u00e4koroinen k\u00e4rki, josta nousee kaarisakarainen risti; molemmat hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "2013-01-01"
+    },
+    {
+        "armiger": "Asikkala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Asikkala.vaakuna.svg",
+        "blazon": "Kilpi nelilohkoinen, hopea-punainen; kussakin kent\u00e4ss\u00e4 vuorov\u00e4rinen, kultaemi\u00f6inen viisilehtinen kukka.",
+        "artist": "Ahti Hammar",
+        "date": "1952-03-06"
+    },
+    {
+        "armiger": "Askola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Askola.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 myllynkivi, josta kasvaa kolme ruusua; kaikki punaista.",
+        "artist": "Olof Eriksson",
+        "date": "1956-11-14"
+    },
+    {
+        "armiger": "Aura",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aura.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alainen, aaltokoroinen hirsi, jonka yl\u00e4puolella keh\u00e4aura; kaikki kultaa.",
+        "artist": "Ahti Hammar",
+        "date": "1957-06-29"
+    },
+    {
+        "armiger": "Br\u00e4nd\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Br%C3%A4nd%C3%B6.vaakuna.svg",
+        "blazon": "Aaltokoroisen kilven punaisessa yl\u00e4kent\u00e4ss\u00e4 lent\u00e4v\u00e4 hopeinen lokki, hopeisessa alakent\u00e4ss\u00e4 kala.",
+        "artist": "Matts Dreijer",
+        "date": "1952-04-09"
+    },
+    {
+        "armiger": "Ecker\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ecker%C3%B6.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen rahtivene, jonka raakapurjekin on punainen.",
+        "artist": "Matts Dreijer",
+        "date": "1952-02-27"
+    },
+    {
+        "armiger": "Enonkoski",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Enonkoski.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaksi hopea-airoa vinoristikk\u00e4in, saatteena nelj\u00e4 kulta-apilaa.",
+        "artist": "Olof Eriksson",
+        "date": "1954-11-23"
+    },
+    {
+        "armiger": "Enonteki\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Enonteki%C3%B6.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen punavaruksinen riekko.",
+        "artist": "Olof Eriksson",
+        "date": "1961-04-21"
+    },
+    {
+        "armiger": "Espoo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Espoo.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hevosenkenk\u00e4, sen yl\u00e4puolella kruunu, kaikki kultaa.",
+        "artist": "Kaj Kajander",
+        "date": "1955-11-10"
+    },
+    {
+        "armiger": "Eura",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Eura.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 sinisen, sakarakoroisen reunuksen ymp\u00e4r\u00f6im\u00e4n\u00e4 musta, punavaruksinen karhu pystyasennossa, oikeassa k\u00e4mmeness\u00e4\u00e4n iskuun kohotettu sininen miekka.",
+        "artist": "Gustaf von Numers",
+        "date": "1954-08-09"
+    },
+    {
+        "armiger": "Eurajoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Luvia.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen, kolmimastoinen kuunarilaiva.",
+        "artist": "Heikki Hermonen",
+        "date": "2017-01-01"
+    },
+    {
+        "armiger": "Evij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Evij%C3%A4rvi.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeisen aaltokoroisen tyvi\u00f6n yl\u00e4puolella sel\u00e4tysten kaksi tyvi\u00f6st\u00e4 nousevaa hopeista kalaa, joiden varukset ovat punaiset.",
+        "artist": "Olof Eriksson",
+        "date": "1963-09-19"
+    },
+    {
+        "armiger": "Finstr\u00f6m",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Finstr%C3%B6m.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultatammi alaisen, aaltokoroisen hopeahirren yl\u00e4puolella.",
+        "artist": "Matts Dreijer",
+        "date": "1951-12-19"
+    },
+    {
+        "armiger": "Forssa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Forssan_vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen vesiratas.",
+        "artist": "Olof Eriksson",
+        "date": "1962-08-29"
+    },
+    {
+        "armiger": "F\u00f6gl\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/F%C3%B6gl%C3%B6.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kolme yl\u00e4viistoon lent\u00e4v\u00e4\u00e4 kultaista sorsaa asetettuina 2 + 1.",
+        "artist": "Matts DreijerjaA.W. Rancken",
+        "date": "1951-10-31"
+    },
+    {
+        "armiger": "Geta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Geta.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 pystyyn kavahtanut kultapukki.",
+        "artist": "Matts Dreijer",
+        "date": "1951-12-19"
+    },
+    {
+        "armiger": "Haapaj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Haapaj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 palkeittain hopeinen, siivek\u00e4s nuoli, jonka k\u00e4rki ja sulat kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1959-02-10"
+    },
+    {
+        "armiger": "Haapavesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Haapavesi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen haapa, sen alapuolella aaltokoroinen hopeatyvi\u00f6, jossa sininen, kultanastainen suksisauvan sompa.",
+        "artist": "A. O. J\u00e4\u00e4sk\u00f6",
+        "date": "1953-10-10"
+    },
+    {
+        "armiger": "Hailuoto",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Hailuoto.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen merihankain.",
+        "artist": "Teuvo Pakkala",
+        "date": "1966-12-19"
+    },
+    {
+        "armiger": "Halsua",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Halsua.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kaksi vastakkain asetettua py\u00f6re\u00e4per\u00e4ist\u00e4 hopeakannelta, joitten kielet siniset.",
+        "artist": "Kaj Kajander",
+        "date": "1969-03-12"
+    },
+    {
+        "armiger": "Hamina",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hamina.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen, alainen, aaltokoroinen hirsi, jolla ui kultainen vene, sen yl\u00e4puolella kultainen, purppuravuorinen kuninkaankruunu.",
+        "artist": "Gustaf von Numers(vanhan vaakunan pohjalta)",
+        "date": "1952-05-03"
+    },
+    {
+        "armiger": "Hammarland",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Hammarland.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kohti k\u00e4\u00e4ntynyt kultainen viikinkilaiva; kultatyvi\u00f6ss\u00e4 punainen kolmoisvuori.",
+        "artist": "Matts Dreijer",
+        "date": "1951-12-28"
+    },
+    {
+        "armiger": "Hankasalmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hankasalmi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 aaltokoroinen hopeahirsi, jossa punainen vitsahankain.",
+        "artist": "Ahti Hammar",
+        "date": "1957-10-03"
+    },
+    {
+        "armiger": "Hanko",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hanko.vaakuna.svg",
+        "blazon": "Sini-hopeakatkoisessa kilvess\u00e4 hopea-punakatkoinen majakka, jonka ovi- ja ikkuna-aukot ovat siniset; tornin yl\u00e4puolella kuusisakarainen hopeat\u00e4hti.",
+        "artist": "Gustaf von Numers(vanhan vaakunan pohjalta)",
+        "date": "1960-01-04"
+    },
+    {
+        "armiger": "Harjavalta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Harjavalta.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 salamakimppu paaluittain, saatteena sen kummallakin puolella kaksi vinoristi\u00e4 kesken\u00e4\u00e4n hirsitt\u00e4in, kaikki kultaa.",
+        "artist": "Ahti Hammar",
+        "date": "1952-02-11"
+    },
+    {
+        "armiger": "Hartola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hartola.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 ristikk\u00e4in kaksi palavaa soihtua ja niiden yl\u00e4puolella kruunu; kaikki kultaa paitsi soihtujen liekit hopeaa.",
+        "artist": "Kaj Kajander",
+        "date": "1966-07-11"
+    },
+    {
+        "armiger": "Hattula",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hattula.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 reunoihin ulottuva yksikaarinen silta, jonka yl\u00e4puolella kreikkalainen risti, molemmat kultaa.",
+        "artist": "Erkki Karttunen",
+        "date": "1957-03-12"
+    },
+    {
+        "armiger": "Hausj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Hausj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 vinoristi ja lakipisteess\u00e4 t\u00e4hti, kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1953-04-20"
+    },
+    {
+        "armiger": "Heinola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Heinola.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alainen, alapuoleltaan kaarikoroinen hopeahirsi, jonka p\u00e4\u00e4ll\u00e4 k\u00e4velee kultainen ilves, varukset siniset, korvat\u00f6yhd\u00f6t mustat.",
+        "artist": "Gustaf von Numers",
+        "date": "1958-11-11"
+    },
+    {
+        "armiger": "Hein\u00e4vesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hein%C3%A4vesi.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 aaltokoroinen hopeinen vastapalkki, jossa alatusten kolme kultaisilla ketjuilla sidottua vihre\u00e4t\u00e4 tukkilauttaa; vastapalkin yl\u00e4puolella kultainen ruoriratas.",
+        "artist": "Pauli Numminen",
+        "date": "1959-03-19"
+    },
+    {
+        "armiger": "Helsinki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Helsinki.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen vene uimassa hopeisella, aaltokoroisella tyvi\u00f6ll\u00e4; veneen yl\u00e4puolella saatteena kultakruunu.",
+        "artist": "A. W. Rancken(piirt\u00e4nyt uudelleen)",
+        "date": "1951-08-30"
+    },
+    {
+        "armiger": "Hirvensalmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Hirvensalmi.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 musta, k\u00e4velev\u00e4 hirvi, kaviot punaiset.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-04-20"
+    },
+    {
+        "armiger": "Hollola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Hollola.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kohtikatsova hirvenp\u00e4\u00e4 ja sen alapuolella ruiskuhilas; molemmat kultaa, saatteena viisi hopeista naularisti\u00e4, joista yksi hirvenp\u00e4\u00e4n yl\u00e4puolella ja kaksi p\u00e4\u00e4tunnuskuvien molemmin puolin.",
+        "artist": "Carolus Lindberg",
+        "date": "1952-11-03"
+    },
+    {
+        "armiger": "Huittinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Huittisten.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 kaksi kultaista h\u00e4r\u00e4notsaa alakkain.",
+        "artist": "Erkki Honkanen",
+        "date": "1953-06-19"
+    },
+    {
+        "armiger": "Humppila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Humppilan_vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 tyvest\u00e4 nousevasta katoksesta riippuva ruokakello; kaikki mustaa.",
+        "artist": "Risto Sulonen jaOlof Eriksson",
+        "date": "1957-09-25"
+    },
+    {
+        "armiger": "Hyrynsalmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hyrynsalmi.vaakuna.svg",
+        "blazon": "Hopeisessa kent\u00e4ss\u00e4 sininen aaltokoroinen paalu, jossa kultainen tervatynnyri.",
+        "artist": "A. Liuksiala",
+        "date": "1968-06-08"
+    },
+    {
+        "armiger": "Hyvink\u00e4\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hyvinkaa.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kolme hirsitt\u00e4in asetettua, kesken\u00e4\u00e4n paaluittain j\u00e4rjestetty\u00e4 kultasy\u00f6st\u00e4v\u00e4\u00e4, joiden k\u00e4rjet ja langat hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1950-12-11"
+    },
+    {
+        "armiger": "H\u00e4meenkyr\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/H%C3%A4meenkyr%C3%B6.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 puna-sinikatkoinen juomasarvi, jalka ja heloitus hopeaa, suu oikealle, sarven yl\u00e4puolella sininen, liekkikoroinen lakio, jossa kuusisakarainen kultat\u00e4hti.",
+        "artist": "Gustaf von Numers",
+        "date": "1954-12-29"
+    },
+    {
+        "armiger": "H\u00e4meenlinna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/H%C3%A4meenlinna.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alareunaltaan aaltokoroinen, kilven reunasta toiseen ulottuva muuri, josta nousee kaksi jyrkk\u00e4kattoista tornia ja n\u00e4iden v\u00e4liss\u00e4 rakennus, kaikki hopeaa, ikkuna-aukot ovat mustat ja linnan yl\u00e4puolella saatteena kultaiset auringonkasvot.",
+        "artist": "Gustaf von Numers(vanhan vaakunan pohjalta)",
+        "date": "1956-09-21"
+    },
+    {
+        "armiger": "Ii",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kuivaniemi.vaakuna.svg",
+        "blazon": "Hopea kent\u00e4ss\u00e4 aaltokoroinen vasen pieli ja hylje; molemmat sinisi\u00e4.",
+        "artist": "Kaj Kajander",
+        "date": "2007-01-01"
+    },
+    {
+        "armiger": "Iisalmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Iisalmi.vaakuna.svg",
+        "blazon": "Aaltokoroisesti musta-kultakatkoinen kilpi, jonka yl\u00e4kent\u00e4ss\u00e4 pystyss\u00e4 j\u00e4nnitetty k\u00e4sijousi, kokonaan kultaa, ja alakent\u00e4ss\u00e4 kaksi piilukirvest\u00e4 ristikk\u00e4in ja niiden varsien ymp\u00e4rill\u00e4 saatteena nelj\u00e4 ruusua asetettuina 1 + 2 + 1, kaikki mustia.",
+        "artist": "Ahti Hammar(vanhan vaakunan pohjalta)",
+        "date": "1964-09-24"
+    },
+    {
+        "armiger": "Iitti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Iitti.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 aaltokoroinen hopeahirsi, p\u00e4\u00e4llikkeen\u00e4 paaluittainen kaksilehtinen kulta-avain.",
+        "artist": "Ahti Hammar",
+        "date": "1953-03-03"
+    },
+    {
+        "armiger": "Ikaalinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ikaalinen.vaakuna.svg",
+        "blazon": "Kultaisten pielten rajoittamassa sinisess\u00e4 kent\u00e4ss\u00e4 kolme hopeista airoa lavat yl\u00f6sp\u00e4in.",
+        "artist": "Pentti Papunen",
+        "date": "1972-01-01"
+    },
+    {
+        "armiger": "Ilmajoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ilmajoki.vaakuna.svg",
+        "blazon": "Katkoisen kilven hopeisessa yl\u00e4kent\u00e4ss\u00e4 musta karhunp\u00e4\u00e4 edest\u00e4p\u00e4in. Sinisess\u00e4 alakent\u00e4ss\u00e4 kaksi hopeista puunuijaa ristiss\u00e4, niiden alakulmassa jalkajousen muotoinen hopeinen puumerkki; jousen kaksikaarteinen viritt\u00e4j\u00e4 vastapalkeittain tukin p\u00e4\u00e4ll\u00e4, yl\u00e4p\u00e4\u00e4 kiinni j\u00e4nteess\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1950-10-25"
+    },
+    {
+        "armiger": "Ilomantsi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ilomantsi.vaakuna.svg",
+        "blazon": "Puna-mustahalkoisessa kilvess\u00e4 kolme hopeista viisikielist\u00e4 kannelta vieretysten; kielet mustia.",
+        "artist": "Ahti Hammar",
+        "date": "1954-11-24"
+    },
+    {
+        "armiger": "Imatra",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Imatra.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme pystyasentoon asetettua kahtaalle suuntautuvaa yksipolvekkeista nuolenmuotoista kultak\u00e4rkist\u00e4 hopeasalamaa.",
+        "artist": "Olof Eriksson",
+        "date": "1960-10-25"
+    },
+    {
+        "armiger": "Inari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Inari.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 uiva hopeinen siika p\u00e4\u00e4ss\u00e4\u00e4n kultaiset sarvet.",
+        "artist": "Ahti Hammar",
+        "date": "1955-02-25"
+    },
+    {
+        "armiger": "Inkoo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Inkoo.vaakuna.svg",
+        "blazon": "Kilpi aaltokoroisesti kulta-sinikatkoinen; yl\u00e4kent\u00e4ss\u00e4 punainen vihkiristi, alakent\u00e4ss\u00e4 palkeittain asetettu kulta-ankkuri.",
+        "artist": "A. W. Rancken",
+        "date": "1951-04-17"
+    },
+    {
+        "armiger": "Isojoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Isojoki.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 hopeinen paalu, jossa punainen t\u00e4hk\u00e4.",
+        "artist": "Pentti Vakkamaa",
+        "date": "1966-01-11"
+    },
+    {
+        "armiger": "Isokyr\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Isokyr%C3%B6.vaakuna.svg",
+        "blazon": "Kultakilvess\u00e4 pystyss\u00e4 musta karhu, jonka varukset (kieli, hampaat, kynnet) ovat punaiset, pidellen k\u00e4mmeniss\u00e4\u00e4n kuusentyve\u00e4.",
+        "artist": "Matti Visanti",
+        "date": "1950-07-07"
+    },
+    {
+        "armiger": "Janakkala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Janakkala.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 edest\u00e4p\u00e4in kultainen ilveksenp\u00e4\u00e4, jonka kieli sininen ja korvat\u00f6yhd\u00f6t mustat; yl\u00e4puolella sakarakoroinen kultalakio, jossa Mantovan risti ja sen molemmin puolin sit\u00e4 kohti suuntautuva nuolenk\u00e4rki; kaikki mustia.",
+        "artist": "Onni Oja",
+        "date": "1952-02-23"
+    },
+    {
+        "armiger": "Joensuu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Joensuu.vaakuna.svg",
+        "blazon": "Kilpi kahdesti lohkoinen, ylemp\u00e4n\u00e4 vallikoro, alempana aaltokoro; kent\u00e4t punainen, hopeinen ja musta.",
+        "artist": "Toivo Vuorela",
+        "date": "1957-11-19"
+    },
+    {
+        "armiger": "Jokioinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jokioinen.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 aaltokoroinen hirsi, jonka yl\u00e4puolella kaksi vehn\u00e4t\u00e4hk\u00e4\u00e4 ristiss\u00e4 ja alapuolella alasin; kaikki kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1951-09-21"
+    },
+    {
+        "armiger": "Jomala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jomala.vapen.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 Pyh\u00e4 Olavi istumassa valtaistuimella pidellen valtakunnanomenaa ja sotakirvest\u00e4, kaikki kultaa.",
+        "artist": "Matts Dreijer",
+        "date": "1952-02-27"
+    },
+    {
+        "armiger": "Joroinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Joroinen.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 musta, punavaruksinen h\u00e4r\u00e4np\u00e4\u00e4 edest\u00e4p\u00e4in, saatteena kolme mustaa kuulaa, joista p\u00e4\u00e4n yl\u00e4puolella yksi ja kummallakin sivulla yksi.",
+        "artist": "Olof Eriksson",
+        "date": "1953-06-12"
+    },
+    {
+        "armiger": "Joutsa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Joutsa.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kuusikoroinen tyvi\u00f6 sek\u00e4 hirsitt\u00e4inen jousi, jonka p\u00e4\u00e4llikkeen\u00e4 paaluittainen nuoli, jousen j\u00e4nne ja nuolen k\u00e4rki ja sulat kultaa, muu hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1955-11-10"
+    },
+    {
+        "armiger": "Juuka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Juuka.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen koivu, jonka norkot kultaiset.",
+        "artist": "Aake Kaarnama",
+        "date": "1952-11-24"
+    },
+    {
+        "armiger": "Juupajoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Juupajoki.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen vuota, jossa kultainen havunoksa.",
+        "artist": "Olof Eriksson",
+        "date": "1957-04-26"
+    },
+    {
+        "armiger": "Juva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Juva.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 risti, saatteena oikeassa yl\u00e4nurkassa apilan lehti; kaikki kultaa.",
+        "artist": "Tapio Vallioja",
+        "date": "1952-10-23"
+    },
+    {
+        "armiger": "Jyv\u00e4skyl\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jyv%C3%A4skyl%C3%A4.vaakuna.svg",
+        "blazon": "Jaettu kilpi, jonka yl\u00e4kent\u00e4ss\u00e4 on hopeanv\u00e4rinen merkurion sauva sinisell\u00e4 pohjalla ja alakent\u00e4ss\u00e4 hopeanv\u00e4risell\u00e4 pohjalla luonnonv\u00e4risen\u00e4 sis\u00e4j\u00e4rviveneen keula suoraan edest\u00e4 katsottuna sek\u00e4 sen alla kolme sinist\u00e4 aaltoviivaa.",
+        "artist": "Jussi J\u00e4ppinen(piirt\u00e4nyt uudelleen)",
+        "date": "1931-12-11"
+    },
+    {
+        "armiger": "J\u00e4mij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/J%C3%A4mij%C3%A4rvi.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 palkki, jonka kummallakin puolella saatteena palkeittain lent\u00e4v\u00e4 p\u00e4\u00e4skynen, kaikki siniset.",
+        "artist": "Gustaf von Numers",
+        "date": "1965-04-26"
+    },
+    {
+        "armiger": "J\u00e4ms\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/J%C3%A4ms%C3%A4nkoski.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 siilinrauta, jota ymp\u00e4r\u00f6i reunuksittain ketju, molemmat hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "J\u00e4rvenp\u00e4\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jarvenpaa.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen siivek\u00e4s lyyra.",
+        "artist": "Olof Eriksson",
+        "date": "1956-02-10"
+    },
+    {
+        "armiger": "Kaarina",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Piikki%C3%B6.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme nousevaa kultaista, apilak\u00e4rkist\u00e4 sudenhammasta.",
+        "artist": "Ahti Hammar",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Kaavi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kaavi.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen, aaltokoroinen k\u00e4rki.",
+        "artist": "Kaj Kajander",
+        "date": "1956-02-21"
+    },
+    {
+        "armiger": "Kajaani",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kajaani.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 alaisesta aaltokoroisesta hopeahirrest\u00e4 nouseva kultainen kaksitorninen linna, jonka ikkuna- ja oviaukot punaiset.",
+        "artist": "Olof Eriksson",
+        "date": "1958-06-30"
+    },
+    {
+        "armiger": "Kalajoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Himanka.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 sininen, kaksimastoinen kaljaasi.",
+        "artist": "Gustaf von Numers",
+        "date": "2010-01-01"
+    },
+    {
+        "armiger": "Kangasala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kangasala.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 harppu, jonka yhdyspuu ja kaula muodostavat kotkakuvion, saatteena seitsem\u00e4n pisaraa, asetettuina 2 + 2 + 2 + 1, kaikki punaisia. Hopeisessa, punaisilla pisaroina sirotellussa kent\u00e4ss\u00e4 punainen, kotkakoristeinen harppu.",
+        "artist": "Olof Eriksson",
+        "date": "1951-09-11"
+    },
+    {
+        "armiger": "Kangasniemi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kangasniemi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 paaluttainen kultainen rukinlyhty, jossa lanka hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1953-06-12"
+    },
+    {
+        "armiger": "Kankaanp\u00e4\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kankaanp%C3%A4%C3%A4.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 alainen, yl\u00e4reunaltaan liekkikoroinen hopeahirsi, jonka p\u00e4\u00e4llikkeen\u00e4 pystyss\u00e4 kultam\u00e4nty.",
+        "artist": "Carolus Lindberg",
+        "date": "1951-10-12"
+    },
+    {
+        "armiger": "Kannonkoski",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kannonkoski.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 aaltokoroinen tyvi\u00f6 ja sen yl\u00e4puolella kanto; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1959-09-28"
+    },
+    {
+        "armiger": "Kannus",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Kannus.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 paaluittainen noitarummun (kannuksen) vasara, sen varren kummallakin puolella kuusisakarainen kannust\u00e4hti; kaikki hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1950-09-27"
+    },
+    {
+        "armiger": "Karijoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Karijoki.vaakuna.svg",
+        "blazon": "Kynsikoroisesti katkoinen sini-hopeakilpi.",
+        "artist": "Ahti Hammar",
+        "date": "1965-12-28"
+    },
+    {
+        "armiger": "Karkkila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Karkkila.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 liekkikoroinen tyvi\u00f6, jonka yl\u00e4puolella kaksi vasaraa ristikk\u00e4in; kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1956-09-21"
+    },
+    {
+        "armiger": "Karstula",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Karstula.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen, ankkuriristin muotoinen lukonhela, keskell\u00e4 avaimenreik\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1953-07-16"
+    },
+    {
+        "armiger": "Karvia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Merikarvia.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kuusikoroisen tyvi\u00f6n yl\u00e4puolella linnake, kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1956-03-28"
+    },
+    {
+        "armiger": "Kaskinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kaskinen.vaakuna.svg",
+        "blazon": "Halkoisen kilven oikeassa sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen per\u00e4mela, vasemmassa hopeisessa kent\u00e4ss\u00e4 vihre\u00e4 laakerinlehv\u00e4.",
+        "artist": "A. W. Rancken(piirt\u00e4nyt uudelleen)",
+        "date": "1793-04-09"
+    },
+    {
+        "armiger": "Kauhajoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kauhajoki.vaakuna.svg",
+        "blazon": "Aaltokorokatkoisen kilven sinisess\u00e4 yl\u00e4kent\u00e4ss\u00e4 kaksi hopeista puhemiehen nuijaa ristikk\u00e4in, hopeisessa alakent\u00e4ss\u00e4 kohti katsova musta karhunp\u00e4\u00e4, jonka kieli punainen.",
+        "artist": "Ahti Hammar",
+        "date": "1952-10-17"
+    },
+    {
+        "armiger": "Kauhava",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kauhava.vaakuna.2009.svg",
+        "blazon": "Sinisell\u00e4 kilvell\u00e4 kultainen irtonainen mantovanristi alapuolellaan kilven reunasta reunaan ulottuva punainen neliherttainen helavy\u00f6; helat ja hertat kultaa.",
+        "artist": "Reijo Hell\u00e4koski",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Kauniainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kauniainen.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kilvess\u00e4 istuva, etuk\u00e4p\u00e4liss\u00e4\u00e4n mustaa kuusenk\u00e4py\u00e4 pitelev\u00e4 kultainen, punavaruksinen orava, sen yl\u00e4puolella saatteena kolme kultaista ruusua vieretysten.",
+        "artist": "Ahto Numminen",
+        "date": "1952-03-11"
+    },
+    {
+        "armiger": "Kaustinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kaustinen.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kultaisin naularistein sirotellussa kent\u00e4ss\u00e4 vastapalkeittain asetettu kultainen viulu.",
+        "artist": "Ilmari Wirkkala",
+        "date": "1950-10-25"
+    },
+    {
+        "armiger": "Keitele",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Keitele.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kolme kultaista nuottavenett\u00e4 alatusten.",
+        "artist": "Ahti Hammar",
+        "date": "1962-05-16"
+    },
+    {
+        "armiger": "Kemi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kemi.vaakuna.svg",
+        "blazon": "Katkoisen kilven punaisessa yl\u00e4kent\u00e4ss\u00e4 hopeinen ankkuri, sinisess\u00e4 alakent\u00e4ss\u00e4 hopealohi.",
+        "artist": "G. A. Kajanus",
+        "date": "1873-05-28"
+    },
+    {
+        "armiger": "Kemij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kemij%C3%A4rvi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kanto, jonka yl\u00e4p\u00e4\u00e4 teroitettu kolmik\u00e4rkiseksi ja sen molemmin puolin saatteena kuusisakarainen t\u00e4hti, kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1973-01-01"
+    },
+    {
+        "armiger": "Keminmaa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Keminmaa.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hypp\u00e4\u00e4v\u00e4 lohi, jonka leuassa riippulukko; kaikki hopeaa, paitsi lukossa musta avaimenreik\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1955-07-04"
+    },
+    {
+        "armiger": "Kemi\u00f6nsaari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dragsfj%C3%A4rd.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen potkuri vinoristikk\u00e4in.",
+        "artist": "Olof Eriksson",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Kempele",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kempele.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroinen vasen pieli ja kaksi alakkain, yl\u00e4viistoon lent\u00e4v\u00e4\u00e4 sorsaa; kaikki hopeaa.",
+        "artist": "Kaj Kajander",
+        "date": "1969-11-24"
+    },
+    {
+        "armiger": "Kerava",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kerava.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 yl\u00e4reunaltaan lohenpyrst\u00f6koroinen kultahirsi.",
+        "artist": "Ahti Hammar",
+        "date": "1955-04-22"
+    },
+    {
+        "armiger": "Keuruu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Keuruu.vaakuna.svg",
+        "blazon": "Hopeanv\u00e4riseen yl\u00e4lakioon sijoitettu musta kirkkovene ja punaisessa alakent\u00e4ss\u00e4 ristikk\u00e4in olevat puintivarstat.",
+        "artist": "Olof Eriksson",
+        "date": "1952-12-30"
+    },
+    {
+        "armiger": "Kihni\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kihni%C3%B6.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kaksi kultaista alapuolelta sahakoroista palkkia.",
+        "artist": "Toivo Vuorela",
+        "date": "1960-10-10"
+    },
+    {
+        "armiger": "Kinnula",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kinnula_coat_of_arms.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 kolme oksakoroista, musta-punakatkoista vastapalkkia.",
+        "artist": "Ahti Hammar",
+        "date": "1959-01-02"
+    },
+    {
+        "armiger": "Kirkkonummi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Kirkkonummi.vaakuna.svg",
+        "blazon": "Kilpi aaltokoroisesti sini-hopeakatkoinen; yl\u00e4kent\u00e4ss\u00e4 kultainen irtonainen kreikkalainen risti, alakent\u00e4ss\u00e4 sininen vene.",
+        "artist": "A. W. Rancken",
+        "date": "1951-03-29"
+    },
+    {
+        "armiger": "Kitee",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kitee.vaakuna.svg",
+        "blazon": "Puna-mustakatkoisessa kilvess\u00e4 hopeinen ruoriratas.",
+        "artist": "Tapio Vallioja",
+        "date": "1953-11-07"
+    },
+    {
+        "armiger": "Kittil\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kittil%C3%A4.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 k\u00e4velev\u00e4 ahma ja yl\u00e4puolella kaarilakio; kaikki mustaa paitsi ahman varukset punaiset.",
+        "artist": "Einari Junttila",
+        "date": "1963-11-26"
+    },
+    {
+        "armiger": "Kiuruvesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kiuruvesi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultainen kiuru siivet levitettyin\u00e4, alapuolella saatteena kolme hopeista vesilehv\u00e4\u00e4 asetettuina 2 + 1.",
+        "artist": "Tapio Vallioja",
+        "date": "1963-06-07"
+    },
+    {
+        "armiger": "Kivij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kivij%C3%A4rvi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen, alapuoleltaan aaltokoroinen irtohirsi, jolla seisoo musta, punavaruksinen kukko.",
+        "artist": "Gustaf von Numers",
+        "date": "1963-04-18"
+    },
+    {
+        "armiger": "Kokem\u00e4ki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kokem%C3%A4ki.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen, kultap\u00e4\u00e4rmeinen ja -nauhainen piispanhiippa.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-02-04"
+    },
+    {
+        "armiger": "Kokkola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kokkola.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 kyljell\u00e4\u00e4n musta tervatynnyri, jonka tapinrei\u00e4st\u00e4 ja pohjista ly\u00f6v\u00e4t punaiset tulenlieskat.",
+        "artist": "Olof Eriksson(vanhan vaakunan pohjalta)",
+        "date": "1956-12-17"
+    },
+    {
+        "armiger": "Kolari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kolari.vaakuna.svg",
+        "blazon": "Kilpi alaisen harjakoron jakama hopeiseen ja mustaan kentt\u00e4\u00e4n; yl\u00e4kent\u00e4ss\u00e4 viisi nousevaa punaista tulikielekett\u00e4 vieretysten.",
+        "artist": "Olof Eriksson",
+        "date": "1951-12-10"
+    },
+    {
+        "armiger": "Konnevesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Konnevesi.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeiset tukkisakset.",
+        "artist": "Gustaf von Numers",
+        "date": "1964-08-21"
+    },
+    {
+        "armiger": "Kontiolahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kontiolahti.vaakuna.svg",
+        "blazon": "Hopeisessa kent\u00e4ss\u00e4 pystyss\u00e4 karhu olallaan uittohaka, kaikki mustaa, paitsi karhun varukset ja uittohaan varsi punaiset.",
+        "artist": "Aarno Liuksiala",
+        "date": "1953-02-27"
+    },
+    {
+        "armiger": "Korsn\u00e4s",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Korsn%C3%A4s.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 ristikk\u00e4in kaksi yl\u00f6s ty\u00f6ntyv\u00e4\u00e4 harppuunaa, joiden k\u00e4rjet hopeaa ja varret kultaa; yl\u00e4kulmassa saatteena kultainen Mantovan risti.",
+        "artist": "Gustaf von Numers",
+        "date": "1968-06-08"
+    },
+    {
+        "armiger": "Koski Tl",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Koski.Tl.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kuusisakaraista kannust\u00e4hte\u00e4 ymp\u00e4r\u00f6iv\u00e4 rengas, jonka ulkoreuna on lohenpyrst\u00f6koroinen, molemmat hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1966-09-21"
+    },
+    {
+        "armiger": "Kotka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kotka.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen luonnollinen kotka siivet koholla, seisoen ristikk\u00e4in olevalla ankkurilla ja Merkuriuksen sauvalla, jotka molemmat ovat hopeisia.",
+        "artist": "Olof Eriksson",
+        "date": "1957-09-19"
+    },
+    {
+        "armiger": "Kouvola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kouvola.vaakuna.2009.svg",
+        "blazon": "Mustalla kilvell\u00e4 hopeinen aaltokoroinen tyvi\u00f6 ja kultainen liljap\u00e4inen, kuusipuolainen sideruusuke.",
+        "artist": "Tapani Talari",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Kristiinankaupunki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kristiinankaupunki.vaakuna.svg",
+        "blazon": "Aaltokoroisen hopea-sinihalkoisen kilven oikeassa kent\u00e4ss\u00e4 yksitoista kent\u00e4st\u00e4 kasvavaa vihre\u00e4\u00e4 kuusta asetettuina 3 + 3 + 3 + 2.",
+        "artist": "Olof Eriksson(piirt\u00e4nyt uudelleen)",
+        "date": "1652-03-07"
+    },
+    {
+        "armiger": "Kruunupyy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Kruunupyy.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kruunattu apilaristi, jonka alasakara muodostaa kaateisen aurank\u00e4rjen, kaikki kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1974-06-14"
+    },
+    {
+        "armiger": "Kuhmo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kuhmo.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kolme kultaista kuusta asetettuna 2 + 1.",
+        "artist": "Olof Eriksson",
+        "date": "1952-03-01"
+    },
+    {
+        "armiger": "Kuhmoinen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kuhmoinen.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 kolme punaista, yl\u00e4reunaltaan aaltokoroista hirtt\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1955-08-04"
+    },
+    {
+        "armiger": "Kumlinge",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kumlinge.vapen.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultainen kotka siivet lev\u00e4ll\u00e4\u00e4n seisomassa hopeakivien muodostamalla merimerkill\u00e4.",
+        "artist": "Matts Dreijer",
+        "date": "1951-12-19"
+    },
+    {
+        "armiger": "Kuopio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuopio.vaakuna.svg",
+        "blazon": "Katkoisen kilven mustassa yl\u00e4kent\u00e4ss\u00e4 pystyss\u00e4 viritetty jousi ja sen yl\u00e4puolella kruunu, kaikki kultaa, paitsi nuolen k\u00e4rki ja sulitettu pyrst\u00f6 hopeaa; hopeisessa alakent\u00e4ss\u00e4 punainen yksitorninen kirkko, jonka ovi- ja ikkuna-aukot mustat.",
+        "artist": "Seppo Ruotsalainen (piirt\u00e4nyt uudelleen)",
+        "date": "1958-06-12"
+    },
+    {
+        "armiger": "Kuortane",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kuortane.vaakuna.svg",
+        "blazon": "Aaltokoroisesti katkoinen hopea-sininen kilpi, jonka yl\u00e4kent\u00e4ss\u00e4 kolme nousevaa punaista liekki\u00e4 ja alakent\u00e4ss\u00e4 uiva hopeinen kuha.",
+        "artist": "Ahti Hammar",
+        "date": "1957-10-17"
+    },
+    {
+        "armiger": "Kurikka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kurikka.vaakuna.2009.svg",
+        "blazon": "Siniseen ja hopeaan lohenpyrst\u00f6koroilla halkaistu kilpi.",
+        "artist": "Kirsi-Maaria Markus",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Kustavi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kustavi_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 aaltokoroinen hopeapalkki, jonka saatteena molemmin puolin paaluittain kulta-ankkuri.",
+        "artist": "Arvo Viljanti, A. Lukala jaAhti Hammar",
+        "date": "1956-07-17"
+    },
+    {
+        "armiger": "Kuusamo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kuusamo.vaakuna.svg",
+        "blazon": "Punakent\u00e4ss\u00e4 hopeinen juokseva poro, jonka yl\u00e4puolella kultainen revontuli.",
+        "artist": "Kaj Kajander",
+        "date": "1959-11-23"
+    },
+    {
+        "armiger": "Kyyj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kyyj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroinen vasen pieli ja luikerteleva k\u00e4\u00e4rme, kaikki hopeaa.",
+        "artist": "Kaj Kajander",
+        "date": "1969-07-21"
+    },
+    {
+        "armiger": "K\u00e4rk\u00f6l\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/K%C3%A4rk%C3%B6l%C3%A4.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme hopeista, hirsitt\u00e4ist\u00e4 havukirvest\u00e4 alatusten.",
+        "artist": "Ahti Hammar",
+        "date": "1955-09-05"
+    },
+    {
+        "armiger": "K\u00e4rs\u00e4m\u00e4ki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/K%C3%A4rs%C3%A4m%C3%A4ki.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 tyvi\u00f6 ja vene, molemmat siniset, veneest\u00e4 nousee seitsem\u00e4n punaista tulikielekett\u00e4.",
+        "artist": "Gustaf von Numers",
+        "date": "1964-10-05"
+    },
+    {
+        "armiger": "K\u00f6kar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/K%C3%B6kar.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hypp\u00e4\u00e4v\u00e4 hopeakala, jonka varukset punaiset.",
+        "artist": "Matts Dreijer",
+        "date": "1952-04-16"
+    },
+    {
+        "armiger": "Lahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lahti.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 musta, seitsenpuolainen rautatievaunun py\u00f6r\u00e4; py\u00f6r\u00e4n keh\u00e4lt\u00e4 nousee jokaisen puolapuun kohdalta punainen liekki.",
+        "artist": "Ahto Numminen(vanhan vaakunan pohjalta)",
+        "date": "1968-05-14"
+    },
+    {
+        "armiger": "Laihia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Laihia.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 kultaisella oksalla istuva, etuk\u00e4p\u00e4liss\u00e4\u00e4n kultak\u00e4py\u00e4 pitelev\u00e4 hopeinen orava.",
+        "artist": "Ahti Hammar",
+        "date": "1952-03-11"
+    },
+    {
+        "armiger": "Laitila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Laitila_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen, kultavaruksinen kukko pidellen oikeassa jalassaan hopeista kovelia.",
+        "artist": "Ahti Hammar",
+        "date": "1961-06-26"
+    },
+    {
+        "armiger": "Lapinj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lapinj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Hopea-sinihalkoinen kilpi, kummassakin kent\u00e4ss\u00e4 vuorov\u00e4rinen k\u00e4rki, josta nousee apilaristi.",
+        "artist": "Ahti Hammar",
+        "date": "1958-06-07"
+    },
+    {
+        "armiger": "Lapinlahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lapinlahti.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaskenviert\u00e4j\u00e4 ty\u00f6v\u00e4lineen\u00e4\u00e4n viertokanki; miehen molemmin puolin saatteena kuusik\u00e4rkinen t\u00e4hti; kaikki kultaa, paitsi miehen kasvot ja k\u00e4det luonnonv\u00e4riset sek\u00e4 virsut ja viertokangen tyvi punaiset.",
+        "artist": "Ahti Hammar",
+        "date": "1952-11-11"
+    },
+    {
+        "armiger": "Lappaj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lappaj%C3Ärvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen raakapurjeella ja per\u00e4simell\u00e4 varustettu vene. Alla liekkikoroinen kultatyvi\u00f6.",
+        "artist": "Ahti Hammar",
+        "date": "1957-11-27"
+    },
+    {
+        "armiger": "Lappeenranta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lappeenranta.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 luonnonv\u00e4rinen mets\u00e4l\u00e4inen, pidellen maahan laskettua nuijaa, seisomassa vihre\u00e4ll\u00e4 maalla. Otsan ja vy\u00f6t\u00e4isten ymp\u00e4rill\u00e4 vihre\u00e4 seppele.",
+        "artist": "Olof Eriksson(piirt\u00e4nyt uudelleen)",
+        "date": "1954-12-29"
+    },
+    {
+        "armiger": "Lapua",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lapua.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 musta, k\u00e4velev\u00e4, punavaruksinen karhu, jolla ratsastaa siniseen vy\u00f6tettyyn mekkoon, housuihin ja paulakenkiin pukeutunut mies, pidellen oikeassa k\u00e4dess\u00e4\u00e4n iskuun kohotettua mustaa nuijaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1950-12-11"
+    },
+    {
+        "armiger": "Laukaa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Laukaa.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen syd\u00e4n, josta kasvaa kolmihaarainen vihre\u00e4 havunoksa.",
+        "artist": "Olof Eriksson",
+        "date": "1955-09-05"
+    },
+    {
+        "armiger": "Lemi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lemi.vaakuna.svg",
+        "blazon": "Kilpi aaltokoroisesti vastalohkoinen, punahopeinen; punaisessa kent\u00e4ss\u00e4 hopeinen, kultaemi\u00f6inen perunankukka.",
+        "artist": "Gustaf von Numers",
+        "date": "1962-05-16"
+    },
+    {
+        "armiger": "Lemland",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Lemland.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultainen kappeli, jossa kaksi punaista ikkunaa: katon harjalla kaksi kultaristi\u00e4, joiden sakarat p\u00e4\u00e4ttyv\u00e4t punaisiin kolmioihin.",
+        "artist": "Matts Dreijer",
+        "date": "1951-12-28"
+    },
+    {
+        "armiger": "Lemp\u00e4\u00e4l\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lemp%C3%A4%C3%A4l%C3%A4.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 aaltokoroinen kultapaalu, jonka p\u00e4\u00e4llikkeen\u00e4 on musta, viritetty jalkajousi, mustak\u00e4rkisine kultanuolineen; tyvess\u00e4, paalun kummallakin puolella saatteena kultainen aurak\u00e4rki.",
+        "artist": "Gustaf von Numers",
+        "date": "1950-03-07"
+    },
+    {
+        "armiger": "Lepp\u00e4virta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lepp%C3%A4virta.vaakuna.svg",
+        "blazon": "Mustan kent\u00e4n tyvess\u00e4 aaltokoroinen kultahirsi, jonka yl\u00e4puolella kultainen, punanorkkoinen ja -silmuinen lepp\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1950-06-14"
+    },
+    {
+        "armiger": "Lestij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lestij%C3%A4rvi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 sininen teerenpyrst\u00f6.",
+        "artist": "Gustaf von Numers",
+        "date": "1967-01-19"
+    },
+    {
+        "armiger": "Lieksa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lieksa.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 tyvest\u00e4 nouseva k\u00e4sijousella ampuva mies, karvalakki p\u00e4\u00e4ss\u00e4, kirves vy\u00f6ll\u00e4; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1953-04-20"
+    },
+    {
+        "armiger": "Lieto",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lieto_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 nouseva Pyh\u00e4 Pietari pidellen oikeassa k\u00e4dess\u00e4\u00e4n avainta ja vasemmassa kirjaa; kaikki kultaa.",
+        "artist": "Ahti Hammar",
+        "date": "1960-10-10"
+    },
+    {
+        "armiger": "Liminka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Liminka.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroinen oikea pieli ja kolme k\u00e4velev\u00e4\u00e4 k\u00e4rpp\u00e4\u00e4 alatusten; kaikki muu on hopeaa paitsi k\u00e4rppien h\u00e4nn\u00e4np\u00e4\u00e4t ovat mustat.",
+        "artist": "Ahti Hammar",
+        "date": "1956-06-08"
+    },
+    {
+        "armiger": "Liperi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Liperi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen toistoristi.",
+        "artist": "Ahti Hammar",
+        "date": "1956-07-17"
+    },
+    {
+        "armiger": "Lohja",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lohja.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen halstari paaluttain; sen varren kummallakin puolella saatteena kultainen p\u00e4hkin\u00e4terttu.",
+        "artist": "Olof Eriksson",
+        "date": "1997-01-01"
+    },
+    {
+        "armiger": "Loimaa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Loimaa.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 paaluittain vehn\u00e4nt\u00e4hk\u00e4, jossa kaksi lehte\u00e4, saatteena nelj\u00e4 apilaristi\u00e4 asetettuina 2 + 2; kaikki kultaa.",
+        "artist": "Aake Kaarnama",
+        "date": "2005-01-01"
+    },
+    {
+        "armiger": "Loppi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Loppi_vaakuna.svg",
+        "blazon": "Kilpi aaltokoroisesti puna-hopeakatkoinen; siin\u00e4 vuorov\u00e4rinen raudanmerkki.",
+        "artist": "Olof Eriksson",
+        "date": "1952-09-23"
+    },
+    {
+        "armiger": "Loviisa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Loviisa.vaakuna.svg",
+        "blazon": "Sini-kultakatkoinen kilpi. Sinisess\u00e4 kent\u00e4ss\u00e4 kaksi kultaista tykki\u00e4 ristikk\u00e4in ja kultaisessa kent\u00e4ss\u00e4 musta ankkuri.",
+        "artist": "Ahti Hammar(piirt\u00e4nyt uudelleen)",
+        "date": "1969-03-18"
+    },
+    {
+        "armiger": "Luhanka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luhanka.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 k\u00e4velev\u00e4, hopeinen, kultavaruksinen m\u00e4yr\u00e4, jonka saatteena kolme kultaista, naulakantaista kaarisakararisti\u00e4, kaksi yl\u00e4puolella, yksi alapuolella.",
+        "artist": "Gustaf von Numers",
+        "date": "1965-09-01"
+    },
+    {
+        "armiger": "Lumijoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lumijoki.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 alainen aaltokoroinen hirsi, jonka yl\u00e4puolella lumikide; molemmat hopeaa.",
+        "artist": "Toivo Mikkonen jaKaj Kajander",
+        "date": "1969-07-11"
+    },
+    {
+        "armiger": "Lumparland",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Lumparland.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultalyhde, molemmin puolin sit\u00e4 kohti kaartuva hopeinen, punavaruksinen kala.",
+        "artist": "Matts Dreijer",
+        "date": "1952-04-16"
+    },
+    {
+        "armiger": "Luoto",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Luoto.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen kaksimastoinen verkkovene.",
+        "artist": "Gustaf von Numers",
+        "date": "1952-10-17"
+    },
+    {
+        "armiger": "Luum\u00e4ki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luum%C3%A4ki.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 honka, jonka rungon oikealla puolella punavaruksinen karjunp\u00e4\u00e4, vasemmalla puolella viisisakarainen vallitus; kaikki mustaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1951-04-30"
+    },
+    {
+        "armiger": "Maalahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Maalahti.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroinen tyvi\u00f6 ja kolme lukkopelti\u00e4 asetettuina 2:1, kaikki hopeaa.",
+        "artist": "Karl-David L\u00e5ngbacka",
+        "date": "1982-07-09"
+    },
+    {
+        "armiger": "Maarianhamina",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Maarianhamina.vaakuna.svg",
+        "blazon": "Sinisell\u00e4 kilvell\u00e4 pysty kulta-ankkuri, sen yl\u00e4puolella lakio, jossa kolme vihre\u00e4\u00e4 lehmuksen lehte\u00e4.",
+        "artist": "Nils Byman",
+        "date": "1951-12-19"
+    },
+    {
+        "armiger": "Marttila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Marttila.vaakuna.svg",
+        "blazon": "Punaisessa, vihre\u00e4tyvi\u00f6isess\u00e4 kilvess\u00e4 ratsastava, viittaansa leikkaava Pyh\u00e4 Martti, jonka alapuolella istuva kerj\u00e4l\u00e4inen; kaikki kultaa.",
+        "artist": "Ahti Hammar",
+        "date": "1956-07-17"
+    },
+    {
+        "armiger": "Masku",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Askainen.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 ristikk\u00e4in kaksi hopeista marsalkansauvaa, joiden p\u00e4\u00e4tehelat kultaa. Sauvojen saatteena nelj\u00e4 kulta-apilaa.",
+        "artist": "Gustaf von Numers",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Merij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Merijarvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kaarikoroisesta tyvi\u00f6st\u00e4 nousevaan sinkil\u00e4\u00e4n kiinnitetty rengas, kaikki hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1967-04-27"
+    },
+    {
+        "armiger": "Merikarvia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Merikarvia.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen, kolmimastoinen, etu- ja raakapurjeilla varustettu alus, joka ui aaltokoroisella kultatyvi\u00f6ll\u00e4.",
+        "artist": "Carolus Lindberg",
+        "date": "1951-02-02"
+    },
+    {
+        "armiger": "Miehikk\u00e4l\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Miehikkala.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen kaksoispolviorsi.",
+        "artist": "Tapio Vallioja",
+        "date": "1957-12-03"
+    },
+    {
+        "armiger": "Mikkeli",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mikkeli.vaakuna.svg",
+        "blazon": "Poikittain jaettu kilpi, jossa kuvataan sen yl\u00e4kent\u00e4ss\u00e4 kultaisella pohjalla Suomen marsalkan, vapaaherraC. G. E. Mannerheiminmarsalkansauvaa kaksin kappalein vinoristisuunnassa sek\u00e4 alakent\u00e4ss\u00e4 mustalla pohjalla yl\u00f6sp\u00e4in suunnattu Savon maakunnan kultainen jousi, jossa j\u00e4nne, nuolenk\u00e4rki ja sulitettu pyrst\u00f6 ovat hopeaa. Vaakunakilven yl\u00e4puolella on ruotsalaismallinen kreivin kruunu ja kilven alapuolella vapaudenristi nauhasommitelmineen.",
+        "artist": "Gunnar Clement; uudelleen piirt\u00e4nyt Eero Jokilehto",
+        "date": "1943-01-15"
+    },
+    {
+        "armiger": "Muhos",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Muhos.vaakuna.svg",
+        "blazon": "Aaltokorokatkoisen kilven sinisess\u00e4 yl\u00e4kent\u00e4ss\u00e4 hopeinen lohi ja hopeisessa alakent\u00e4ss\u00e4 kolme sinist\u00e4 yksipolvekkeista salamaa vierekk\u00e4in.",
+        "artist": "Olof Eriksson",
+        "date": "1956-02-06"
+    },
+    {
+        "armiger": "Multia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Multia_vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultainen muurahainen.",
+        "artist": "Ahti Hammar",
+        "date": "1963-11-26"
+    },
+    {
+        "armiger": "Muonio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Muonio.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 harjakoroisen tyvi\u00f6n yl\u00e4puolella kuusisakarainen t\u00e4hti; kaikki hopeaa.",
+        "artist": "B. Harald Hellstr\u00f6m",
+        "date": "1955-11-15"
+    },
+    {
+        "armiger": "Mustasaari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mustasaari_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 reunoihin ulottuva kolmoisriu\u2019un ja kaksoisvartaan muodostama risti, jonka risteyskohtaa ymp\u00e4r\u00f6i rengas, kaikki kultaa; kuviot ovat toisiinsa punottuina.",
+        "artist": "Gustaf von Numers",
+        "date": "1975-01-20"
+    },
+    {
+        "armiger": "Muurame",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Muurame.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen suomuurain, jonka marja kultaa.",
+        "artist": "Ahti Hammar",
+        "date": "1960-02-06"
+    },
+    {
+        "armiger": "Myn\u00e4m\u00e4ki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Myn%C3%A4m%C3%A4ki.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme kultaista sulkakyn\u00e4\u00e4 paaluittain.",
+        "artist": "Gustaf von Numers",
+        "date": "2007-01-01"
+    },
+    {
+        "armiger": "Myrskyl\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Myrskyl%C3%A4.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen honka palkeittain.",
+        "artist": "Gustaf von Numers",
+        "date": "1959-11-23"
+    },
+    {
+        "armiger": "M\u00e4nts\u00e4l\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/M%C3%A4nts%C3%A4l%C3%A4.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen, edest\u00e4p\u00e4inen hirvenp\u00e4\u00e4, jonka varuksetkin kultaa; saatteena kolme hopea-apilaa asetettuina 1 + 2.",
+        "artist": "Olof Eriksson",
+        "date": "1951-02-20"
+    },
+    {
+        "armiger": "M\u00e4ntt\u00e4-Vilppula",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vilppula.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alareunaltaan kaareva hirsi, josta kasvaa kolme havunoksaa; kokonaan hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "M\u00e4ntyharju",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/M%C3%A4ntyharju.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaksi kaarityvi\u00f6st\u00e4 kasvavaa m\u00e4nty\u00e4, kaikki kultaa.",
+        "artist": "Ahti Hammar",
+        "date": "1953-04-20"
+    },
+    {
+        "armiger": "Naantali",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Naantali.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 minuskelikirjaimet vg, joiden yl\u00e4puolella avonainen ritarikruunu; kaikki kultaa.",
+        "artist": "Olof Eriksson(piirt\u00e4nyt uudelleen)",
+        "date": "1966-10-11"
+    },
+    {
+        "armiger": "Nakkila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Nakkila.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen palkki, jossa musta nahkiainen; palkin kummallakin puolella kolme paaluttaista kultat\u00e4hk\u00e4\u00e4.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-02-16"
+    },
+    {
+        "armiger": "Nivala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nivala.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 yksipuolinen kultainen puuportti.",
+        "artist": "Kalervo Kallio",
+        "date": "1965-02-04"
+    },
+    {
+        "armiger": "Nokia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nokia.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 sininen, alainen aaltokoroinen palkki, jonka yl\u00e4puolella musta punavaruksinen n\u00e4\u00e4t\u00e4 pystyasennossa.",
+        "artist": "Gustaf von Numers",
+        "date": "1951-10-25"
+    },
+    {
+        "armiger": "Nousiainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nousiainen.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 piispanistuimella istuva Pyh\u00e4 Henrik, joka polkee jaloillaan kirves k\u00e4dess\u00e4 maassa makaavaa miest\u00e4, kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1961-06-26"
+    },
+    {
+        "armiger": "Nurmes",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nurmes.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme hopeista karhukeih\u00e4\u00e4nk\u00e4rke\u00e4 pystyss\u00e4 vierekk\u00e4in.",
+        "artist": "Olof Eriksson",
+        "date": "1952-02-11"
+    },
+    {
+        "armiger": "Nurmij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nurmijarvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 seitsem\u00e4n luonnonv\u00e4rist\u00e4 kultatukkaista nuorukaisen p\u00e4\u00e4t\u00e4 asetettuina 2 + 3 + 2.",
+        "artist": "Olof Eriksson",
+        "date": "1954-04-14"
+    },
+    {
+        "armiger": "N\u00e4rpi\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/N%C3%A4rpi%C3%B6.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kaateinen, kultainen vesilehv\u00e4, jolla on hopeasiivet.",
+        "artist": "Gustaf von Numers",
+        "date": "1955-08-04"
+    },
+    {
+        "armiger": "Orimattila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Orimattila.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 nouseva hevonen pidellen viikatetta; kaikki hopeaa.",
+        "artist": "Ahti Hammar",
+        "date": "1956-12-17"
+    },
+    {
+        "armiger": "Orip\u00e4\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Orip%C3%A4%C3%A4.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultainen hevosenp\u00e4\u00e4, jonka kaula jatkuu kultaisena paaluna kilven alareunaan.",
+        "artist": "Gustaf von Numers",
+        "date": "1968-06-11"
+    },
+    {
+        "armiger": "Orivesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Orivesi.vaakuna.svg",
+        "blazon": "Hopeisessa kilvess\u00e4 punainen pystyyn kavahtanut ori, joka nousee esiin kilven tyveen ulottuvasta sinisest\u00e4 vedest\u00e4.",
+        "artist": "Carolus Lindberg",
+        "date": "1949-11-30"
+    },
+    {
+        "armiger": "Oulainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Oulainen.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 pystyss\u00e4 kultainen rapu.",
+        "artist": "Ahti Hammar",
+        "date": "1954-02-16"
+    },
+    {
+        "armiger": "Oulu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Oulu.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeisesta tyvi\u00f6st\u00e4 nouseva kultainen, sinisin portti- ja ikkuna-aukoin varustettu linna, jossa nelj\u00e4 viirein koristettua kupukattoista tornia; tyvi\u00f6ss\u00e4 sininen, punavaruksinen lohi.",
+        "artist": "Martti Heikura (piirt\u00e4nyt uudelleen)",
+        "date": "1954-02-11"
+    },
+    {
+        "armiger": "Outokumpu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Outokumpu.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 on kuusikoroinen lakio, jonka alapuolella kuparinmerkki; kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1953-02-18"
+    },
+    {
+        "armiger": "Padasjoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Padasjoki.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 pata, jonka alapuolella aaltokoroinen hirsi; kumpikin hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1956-07-17"
+    },
+    {
+        "armiger": "Paimio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Paimio_vaakuna.svg",
+        "blazon": "Punaisessa, kulta-apilasirotteisessa kent\u00e4ss\u00e4 hopeinen napakaira.",
+        "artist": "Ahti Hammar",
+        "date": "1953-09-12"
+    },
+    {
+        "armiger": "Paltamo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Paltamo.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 hirsitt\u00e4in, alatusten, kolme mustaa tervavenett\u00e4 tynnyreineen.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-09-19"
+    },
+    {
+        "armiger": "Parainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Nagu.vapen.Nauvo.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen, kultakruunuinen ankkuri.",
+        "artist": "Gustaf von Numers",
+        "date": "2009-04-28"
+    },
+    {
+        "armiger": "Parikkala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Parikkala.vaakuna.svg",
+        "blazon": "Hopeisella kilvell\u00e4 musta linnakekoroinen vastapieli ja kolme punaista pyk\u00e4l\u00e4risti\u00e4 paaluttain.",
+        "artist": "Seppo Siitonen",
+        "date": "2005-01-01"
+    },
+    {
+        "armiger": "Parkano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Parkano.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroinen kultahirsi ja sen p\u00e4\u00e4llikkeen\u00e4 pystyss\u00e4 kultainen m\u00e4nty, jonka kuoritut kyljet ovat hopeiset; saatteena m\u00e4nnyn latvan kummallakin puolella seitsensakarainen hopeat\u00e4hti.",
+        "artist": "Germund Paaer",
+        "date": "1950-10-14"
+    },
+    {
+        "armiger": "Peders\u00f6ren kunta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Peders%C3%B6re.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolmen naularistin ymp\u00e4r\u00f6im\u00e4 ohrant\u00e4hk\u00e4; kaikki kultaa.",
+        "artist": "Bo Aur\u00e9n",
+        "date": "1984-04-09"
+    },
+    {
+        "armiger": "Pelkosenniemi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pelkosenniemi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 sininen naularisti ja sen alapuolella sini-hopeakatkoinen kolmoisvuori.",
+        "artist": "Ahti Hammar",
+        "date": "1960-03-24"
+    },
+    {
+        "armiger": "Pello",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pellon_vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kolmoisvuori ja sen yl\u00e4puolella kolme kuusisakaraista t\u00e4hte\u00e4 asetettuina 1 + 2; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1952-05-30"
+    },
+    {
+        "armiger": "Perho",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Perho.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultainen perhonen, jonka yl\u00e4puolella saatteena hopeinen naularisti.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-03-06"
+    },
+    {
+        "armiger": "Pet\u00e4j\u00e4vesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pet%C3%A4j%C3%A4vesi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punaisen aaltokoroisen tyvi\u00f6n yl\u00e4puolella musta pet\u00e4j\u00e4.",
+        "artist": "Olof Eriksson",
+        "date": "1963-02-12"
+    },
+    {
+        "armiger": "Pieks\u00e4m\u00e4ki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pieks%C3%A4m%C3%A4ki.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kolme hirsitt\u00e4ist\u00e4, hopeasulkaista kultavasamaa alatusten.",
+        "artist": "Ahti Hammar",
+        "date": "2007-01-01"
+    },
+    {
+        "armiger": "Pielavesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pielavesi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaksi paaluittaista hopeista tuohitorvea sel\u00e4tysten, saatteena niiden yl\u00e4kulmassa ja kummallakin sivulla kultainen naulakantainen apilaristi.",
+        "artist": "Ahti Hammarja Niilo Toikkanen",
+        "date": "1954-01-23"
+    },
+    {
+        "armiger": "Pietarsaari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pietarsaari.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 sininen, aaltokoroinen tyvi\u00f6, josta nousee punainen torni; tornista nousee sininen, punavaruksinen leijona, p\u00e4\u00e4ss\u00e4\u00e4n punainen kruunu, h\u00e4nt\u00e4 kaksihaarainen; leijona pit\u00e4\u00e4 oikeassa k\u00e4mmeness\u00e4\u00e4n sinist\u00e4, punakahvaista iskuun kohotettua miekkaa.",
+        "artist": "Gustaf von Numers(piirt\u00e4nyt uudelleen)",
+        "date": "1957-12-28"
+    },
+    {
+        "armiger": "Pihtipudas",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Pihtipudas.vaakuna.svg",
+        "blazon": "Hopeaan ja mustaan nelitahkoisen kilven toisessa ja kolmannessa kent\u00e4ss\u00e4 hopeiset nuolenk\u00e4rjet.",
+        "artist": "Olof Eriksson",
+        "date": "1961-10-16"
+    },
+    {
+        "armiger": "Pirkkala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pirkkala.vaakuna.svg",
+        "blazon": "Kilpi halkoinen ja turkiskorokatkoinen hopea-punainen.",
+        "artist": "Gustaf von Numers",
+        "date": "1951-11-28"
+    },
+    {
+        "armiger": "Polvij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Polvij%C3%A4rvi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen polviorsi, jossa kolme hopeista, lent\u00e4v\u00e4\u00e4 hanhea hirsitt\u00e4in.",
+        "artist": "Ahti Hammar",
+        "date": "1953-09-10"
+    },
+    {
+        "armiger": "Pomarkku",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pomarkku.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 sininen, sahakoroinen lakio; viisi sakaraa yl\u00f6sp\u00e4in.",
+        "artist": "Gustaf von Numers",
+        "date": "1962-12-18"
+    },
+    {
+        "armiger": "Pori",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Porin_vaakuna.svg",
+        "blazon": "Kullanv\u00e4risess\u00e4 kilvess\u00e4 edest\u00e4p\u00e4in punaisella ritarikruunulla varustettu musta karhunp\u00e4\u00e4 punainen kieli ojossa. Kilven alapuolta ymp\u00e4r\u00f6i sininen nauha, jossa hopeakirjaimin on lause \u00abDeus protector noster\u00ab.",
+        "artist": "Eric O. W. Ehrstr\u00f6m, uudelleen piirt\u00e4nytOlof Eriksson",
+        "date": "1931-12-11"
+    },
+    {
+        "armiger": "Pornainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pornainen.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen kirkonkello, jonka kummallakin puolella saatteena kultainen, hopealankainen v\u00e4rttin\u00e4.",
+        "artist": "Gustaf von Numers",
+        "date": "1952-03-12"
+    },
+    {
+        "armiger": "Porvoo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Porvoo.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen, tulusraudanmuotoinen C-kirjain.",
+        "artist": "Gustaf von Numers(piirt\u00e4nyt uudelleen)",
+        "date": "1960-06-01"
+    },
+    {
+        "armiger": "Posio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Posio.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kolme hopeista kotaa ryhmitettyin\u00e4 2 + 1; oviaukot punaiset.",
+        "artist": "Gustaf von Numers",
+        "date": "1958-05-12"
+    },
+    {
+        "armiger": "Pudasj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pudasjarvi.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 musta, k\u00e4velev\u00e4, punavaruksinen karhu, jonka yl\u00e4puolella musta, kuusikoroinen lakio, jossa Otavan seitsent\u00e4htinen t\u00e4htikuvio; kukin t\u00e4hti kultaa, viisisakarainen.",
+        "artist": "Gustaf von Numers",
+        "date": "1950-09-26"
+    },
+    {
+        "armiger": "Pukkila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pukkila.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen pukinp\u00e4\u00e4.",
+        "artist": "Olof Eriksson",
+        "date": "1954-12-29"
+    },
+    {
+        "armiger": "Punkalaidun",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Punkalaidun.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 tyvi\u00f6, jolla kilven reunasta toiseen ulottuva riukuaita; molemmat kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1961-06-26"
+    },
+    {
+        "armiger": "Puolanka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Puolanka.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kolme karjankelloa asetettuina 2:1, yl\u00e4puolella kuusikoroinen lakio; kaikki kultaa.",
+        "artist": "Aake Kaarnama",
+        "date": "1962-08-29"
+    },
+    {
+        "armiger": "Puumala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Puumala.vaakuna.svg",
+        "blazon": "Mustassa kilvess\u00e4 kolme kilventyvest\u00e4 kohoavaa hopeista sudenhammasta, joissa mustat, punaliekkiset kranaatit.",
+        "artist": "Tapio Vallioja",
+        "date": "1963-04-18"
+    },
+    {
+        "armiger": "Pyht\u00e4\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pyht%C3%A4%C3%A4.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaksi hopeista punavaruksista lohta ristikk\u00e4in, saatteena kussakin kulmassa hopeinen kreikkalainen risti.",
+        "artist": "Ahti Hammar",
+        "date": "1951-09-14"
+    },
+    {
+        "armiger": "Pyh\u00e4joki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pyh%C3%A4joki.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen kultavaruksinen hanhi, jonka alapuolella kultainen kruunu ja risti alakkain.",
+        "artist": "Olof Eriksson",
+        "date": "1965-09-22"
+    },
+    {
+        "armiger": "Pyh\u00e4j\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pyh%C3%A4j%C3%A4rvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 nouseva k\u00e4rjest\u00e4 teroitettu rajapaalu, jonka saatteena kummallakin puolella naularisti; kaikki hopeaa.",
+        "artist": "Ahti Hammar",
+        "date": "1958-03-26"
+    },
+    {
+        "armiger": "Pyh\u00e4nt\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pyh%C3%A4nt%C3%A4.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 on kolme alaista hirtt\u00e4, joiden p\u00e4\u00e4llikkeen\u00e4 on viisi tyvest\u00e4 nousevaa suippok\u00e4rkist\u00e4 paalua; kaikki hopeaa.",
+        "artist": "Kaj Kajander",
+        "date": "1969-07-11"
+    },
+    {
+        "armiger": "Pyh\u00e4ranta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pyh%C3%A4ranta_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultainen apilaristi, jonka alaosa muodostaa ankkurin.",
+        "artist": "Olof Eriksson",
+        "date": "1956-05-03"
+    },
+    {
+        "armiger": "P\u00e4lk\u00e4ne",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/P%C3%A4lk%C3%A4ne_uusi.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen, kultaemi\u00f6inen lumpeenkukka.",
+        "artist": "Gustaf von Numers",
+        "date": "2007-01-01"
+    },
+    {
+        "armiger": "P\u00f6yty\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/P%C3%B6yty%C3%A4n_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultainen lyhde, jonka p\u00e4\u00e4llikkeen\u00e4 hopeinen orsivaaka.",
+        "artist": "Olof Eriksson",
+        "date": "1955-09-15"
+    },
+    {
+        "armiger": "Raahe",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Raahe.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alaisen aaltokoroisen hopeatyvi\u00f6n - josta nousee kultainen kummeli (merimerkki) - yl\u00e4puolella rynt\u00e4\u00e4v\u00e4n hevosen sel\u00e4ss\u00e4 istuva haarniskoitu ratsumies, jolla oikeassa k\u00e4dess\u00e4\u00e4n viirill\u00e4 varustettu peitsi, kaikki muut hopeaa paitsi kyp\u00e4r\u00e4n kruunu ja silmikko sek\u00e4 viiri, suitset, satulaloimi ja kannukset kultaa.",
+        "artist": "Olof Eriksson(vanhan vaakunan pohjalta)",
+        "date": "1963-09-24"
+    },
+    {
+        "armiger": "Raasepori",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Raasepori.vaakuna.svg",
+        "blazon": "Vihre\u00e4ll\u00e4 kilvell\u00e4 kahdeksan hopeista kultaemi\u00f6ist\u00e4 valkovuokonkukkaa renkaan tavoin.",
+        "artist": "Henrik Str\u00f6mberg",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Raisio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Raisio.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punaisella hevosella ratsastava Pyh\u00e4 Martti leikkaamassa miekallaan kappaletta viitastaan. Pyhimyksen kasvot ja k\u00e4det luonnonv\u00e4ri\u00e4, puku sininen, viitta ja saappaat punaiset, miekka hopeaa sek\u00e4 s\u00e4dekeh\u00e4 ja tukka kultaa. Hevosen varustus ja varukset kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1954-04-23"
+    },
+    {
+        "armiger": "Rantasalmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rantasalmi.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 musta, aaltokorkoinen palkki.",
+        "artist": "Ahti Hammar",
+        "date": "1958-10-01"
+    },
+    {
+        "armiger": "Ranua",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ranua.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 alainen aaltokoroinen hirsi, jonka yl\u00e4puolella justeerisaha; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1959-11-23"
+    },
+    {
+        "armiger": "Rauma",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rauma.vaakuna.svg",
+        "blazon": "Kultaisen latinalaisen ristin jakamassa sinisess\u00e4 kilvess\u00e4 nelj\u00e4 minuskeli r-kirjainta, yksi kussakin nelj\u00e4ss\u00e4 kent\u00e4ss\u00e4.",
+        "artist": "Carolus Lindberg(piirt\u00e4nyt uudelleen)",
+        "date": "1942-09-11"
+    },
+    {
+        "armiger": "Rautalampi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rautalampi.vaakuna.svg",
+        "blazon": "Aaltokoroisesti kahdesti lohkoinen musta-, hopea- ja punakentt\u00e4inen kilpi; kummassakin v\u00e4rikent\u00e4ss\u00e4 hopeinen raudanmerkki.",
+        "artist": "Ahti Hammar",
+        "date": "1959-03-19"
+    },
+    {
+        "armiger": "Rautavaara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Rautavaara.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kolmoisvuori, jonka yl\u00e4puolella kaksi kirvest\u00e4 vinoristikk\u00e4in, kaikki hopeaa; vuoressa punainen raudanmerkki.",
+        "artist": "Olof Eriksson",
+        "date": "1954-01-05"
+    },
+    {
+        "armiger": "Rautj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rautj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen raudanmerkki, jonka yl\u00e4puolella hopeinen, kuusikoroinen lakio.",
+        "artist": "Erkki Paakkinen",
+        "date": "1961-06-26"
+    },
+    {
+        "armiger": "Reisj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Reisj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen, viisihaarainen atraimen ter\u00e4.",
+        "artist": "Gustaf von Numers",
+        "date": "1952-11-03"
+    },
+    {
+        "armiger": "Riihim\u00e4ki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Riihim%C3%A4ki.vaakuna.svg",
+        "blazon": "Kultaisen vy\u00f6n jakama kilpi, jonka hopeisessa yl\u00e4kent\u00e4ss\u00e4 on seitsem\u00e4n yl\u00f6sp\u00e4in nousevaa punaista tulenliekki\u00e4 ja punaisessa alakent\u00e4ss\u00e4 kultainen lyhde.",
+        "artist": "Arttu Brummer",
+        "date": "1947-08-15"
+    },
+    {
+        "armiger": "Ristij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ristijarvi.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokuvioinen hopeatyvi\u00f6 ja sen yl\u00e4puolella hopeinen havuristi.",
+        "artist": "A. Liuksiala",
+        "date": "1959-11-23"
+    },
+    {
+        "armiger": "Rovaniemi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rovaniemi.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 hopeinen haaruristi, jonka yl\u00e4haarat salamakoroiset, saatteena yl\u00e4kulmassa kultainen liekki.",
+        "artist": "Toivo Vuorela",
+        "date": "2006-01-01"
+    },
+    {
+        "armiger": "Ruokolahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ruokolahti.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroinen tyvi\u00f6, josta nousee kolme j\u00e4rviruokoa; kaikki hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1951-09-11"
+    },
+    {
+        "armiger": "Ruovesi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ruovesi.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme hopeista lahnaa asennossa 2 + 1, hopeisessa lakiossa punainen kirkkovene.",
+        "artist": "Eino Hal\u00e9n",
+        "date": "1959-11-23"
+    },
+    {
+        "armiger": "Rusko",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Vahto.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme kruunattua viikatteen ter\u00e4\u00e4 alakkain; kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "R\u00e4\u00e4kkyl\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/R%C3%A4%C3%A4kkyl%C3%A4.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kaksi mustaa kek\u00e4lett\u00e4 ristikk\u00e4in, liekit hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1956-05-03"
+    },
+    {
+        "armiger": "Saarij\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Saarij%C3%A4rvi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 kolme yl\u00e4reunoiltaan sahakoroista hirtt\u00e4, joista keskimm\u00e4inen punainen, toiset mustia.",
+        "artist": "Ahti Hammar",
+        "date": "1954-09-14"
+    },
+    {
+        "armiger": "Salla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Salla.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen kaarihirsi.",
+        "artist": "Kaj Kajander",
+        "date": "1961-04-21"
+    },
+    {
+        "armiger": "Salo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Halikko_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultatammi ja sakarakoroinen kultalakio, jossa musta sarvi.",
+        "artist": "Olof Eriksson",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Saltvik",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Saltvik.vaakuna.svg",
+        "blazon": "Kilpi alaisen harjakoron jakama punaiseen ja kultaan, punaisessa kent\u00e4ss\u00e4 kaksi kultaliljaa vieretysten.",
+        "artist": "Matts Dreijer",
+        "date": "1952-04-09"
+    },
+    {
+        "armiger": "Sastamala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Karkku.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen, ulkoreunaltaan ristikoroinen vihkiristi.",
+        "artist": "Lauri Ahlgr\u00e9n",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Sauvo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sauvo.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 seisova naakka, saatteena kummallakin puolellaan kuusik\u00e4rkinen kannust\u00e4hti kesken\u00e4\u00e4n vastapalkeittain; kaikki mustia.",
+        "artist": "Ahti Hammar",
+        "date": "1957-03-04"
+    },
+    {
+        "armiger": "Savitaipale",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Savitaipale.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 sorkka-aura ja sen yl\u00e4puolella vallikoroinen lakio, kaikki kultaa.",
+        "artist": "Viljo Savikurki",
+        "date": "1953-03-03"
+    },
+    {
+        "armiger": "Savonlinna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savonlinna.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen kolmitorninen linna, sen alapuolella hopeinen, alainen, aaltokoroinen hirsi, jonka alapuolelle j\u00e4\u00e4 musta tyvi\u00f6, jossa pystyss\u00e4 viritetty kultainen jousi; jousen j\u00e4nne, nuolen k\u00e4rki ja sulitettu pyrst\u00f6 hopeaa.",
+        "artist": "Savonlinnan kaupungin Taideteollinen KorkeakouluCarolus Lindberginehdotuksen (1938) pohjalta",
+        "date": "1989-04-04"
+    },
+    {
+        "armiger": "Savukoski",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Savukoski.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultainen patsasaitta.",
+        "artist": "Heikki Paaer",
+        "date": "1957-04-17"
+    },
+    {
+        "armiger": "Sein\u00e4joki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sein%C3%A4joki.vaakuna.svg",
+        "blazon": "Hopeisessa kilvess\u00e4 sininen reunasta reunaan ulottuva sakaraharjainen ja juurestaan aaltokoroinen muuri.",
+        "artist": "Olof Eriksson",
+        "date": "1951-05-16"
+    },
+    {
+        "armiger": "Sievi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sievi.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 apilakoroinen lakio (yliskentt\u00e4) ja aaltokoroinen hirsi; molemmat kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1950-05-30"
+    },
+    {
+        "armiger": "Siikainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Siikainen.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 palkeittain asetettu, hypp\u00e4\u00e4v\u00e4, hopeinen, punavaruksinen siika ja sen molemmin puolin saatteena seitsenk\u00e4rkinen hopeat\u00e4hti.",
+        "artist": "Pentti Vakkamaa",
+        "date": "1952-08-05"
+    },
+    {
+        "armiger": "Siikajoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Siikajoki.vaakuna.2007svg",
+        "blazon": "Sinisell\u00e4 kilvell\u00e4 yl\u00e4reunaltaan sahakoroinen ja alareunaltaan aaltokoroinen hirsi, jonka yl\u00e4puolella kolme kuusisakaraista t\u00e4hte\u00e4 rinnakkain ja alapuolella siika, kaikki hopeaa.",
+        "artist": "Ruukin ja Siikajoen kunnanvaltuustot, Kaisu Tuomi, Tommi Lepoj\u00e4rvi ja Pekka Tuokila",
+        "date": "2007-01-01"
+    },
+    {
+        "armiger": "Siikalatva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Siikalatva.vaakuna.svg",
+        "blazon": "Sinisell\u00e4 kilvell\u00e4 aaltokoroinen tyvi\u00f6 ja nelj\u00e4 lent\u00e4v\u00e4\u00e4 joutsenta palkittain; kaikki hopeaa.",
+        "artist": "Mikko Savolampi",
+        "date": "2009-01-01"
+    },
+    {
+        "armiger": "Siilinj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Siilinj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaksi kassaraa (vesuria) vinoristikk\u00e4in, niiden alapuolella saatteena vesilehv\u00e4; kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1956-07-17"
+    },
+    {
+        "armiger": "Simo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Simo.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 nelj\u00e4 hopeista lohenpyrst\u00f6\u00e4 asetettuina ristin tapaan.",
+        "artist": "Olof Eriksson",
+        "date": "1957-02-27"
+    },
+    {
+        "armiger": "Sipoo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sipoo.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 aaltokoroinen, alainen hirsi ja yl\u00e4puolella sudenp\u00e4\u00e4; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1955-02-25"
+    },
+    {
+        "armiger": "Siuntio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Siuntio.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hirsitt\u00e4in asetettu kultainen avain, jonka kieli muodostaa ristin ja per\u00e4 on neliapilan muotoinen, kahden aaltokoroisen hopeahirren v\u00e4liss\u00e4.",
+        "artist": "A. W. Rancken",
+        "date": "1950-04-22"
+    },
+    {
+        "armiger": "Sodankyl\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sodankyla.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 alainen hopeinen hirsi, jossa yl\u00e4reunastaan liekkikoroinen punainen varras, hirren yl\u00e4puolella hopeinen 6-sakarainen t\u00e4hti.",
+        "artist": "Aarno Liuksiala",
+        "date": "1960-03-24"
+    },
+    {
+        "armiger": "Soini",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Soini.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alainen, aaltokoroinen hirsi, jonka yl\u00e4puolella kruunu; kaikki kultaa.",
+        "artist": "Kaj Kajander",
+        "date": "1962-08-29"
+    },
+    {
+        "armiger": "Somero",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Somero.vaakuna.svg",
+        "blazon": "Hopeisessa kent\u00e4ss\u00e4 musta havupuun kanto, josta punaiset, kultasyd\u00e4miset liekit nousevat yl\u00f6s ja sivuille.",
+        "artist": "Ahti Hammar",
+        "date": "1950-05-30"
+    },
+    {
+        "armiger": "Sonkaj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sonkaj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultainen myllynratas, josta nousee viisi kultapunaista liekki\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1954-10-15"
+    },
+    {
+        "armiger": "Sotkamo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sotkamo.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 sininen, yl\u00e4reunaltaan kaarikoroinen hirsi.",
+        "artist": "Toivo Vuorela",
+        "date": "1962-06-09"
+    },
+    {
+        "armiger": "Sottunga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sottunga.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 vene kahden aaltonauhan yl\u00e4puolella; kaikki kultaa paitsi maston huipussa punainen, kolmikielekkeinen lippu.",
+        "artist": "Matts Dreijer",
+        "date": "1952-03-27"
+    },
+    {
+        "armiger": "Sulkava",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sulkava.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 reunasta toiseen ulottuva, hopeinen yksikaarinen kivisilta, jonka saatteena kultaiset m\u00e4nnynk\u00e4vyt, kolme yl\u00e4puolella, yksi alapuolella, kannat yl\u00f6sp\u00e4in.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-09-23"
+    },
+    {
+        "armiger": "Sund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sund.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 sakarainen, tornilla varustettu kultainen harjamuuri; harjalla kultainen viiri.",
+        "artist": "Matts Dreijer",
+        "date": "1951-12-19"
+    },
+    {
+        "armiger": "Suomussalmi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Suomussalmi.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 nelj\u00e4 hopealipuketta ryhmitettyin\u00e4 1 + 2 + 1, kustakin nousee kultainen liekki.",
+        "artist": "Gustaf von Numers",
+        "date": "1966-09-21"
+    },
+    {
+        "armiger": "Suonenjoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Suonenjoki_coat_of_arms.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 renkaan ymp\u00e4r\u00f6im\u00e4 mansikanlehti, molemmat kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1964-01-02"
+    },
+    {
+        "armiger": "Sysm\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sysm%C3%A4.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 nuolikotelo, jossa kolme nuolta; kaikki hopeaa; nuolikotelon keskell\u00e4 punainen pienoiskilpi ja siin\u00e4 pystyss\u00e4 hopeapiilu.",
+        "artist": "Ahti Hammar",
+        "date": "1954-02-11"
+    },
+    {
+        "armiger": "S\u00e4kyl\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/K%C3%B6yli%C3%B6.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 punainen, kultap\u00e4\u00e4rmeinen piispanhiippa, alapuolella aaltokoroinen kultatyvi\u00f6, jossa sininen kirves.",
+        "artist": "Into Linturija Yrj\u00f6 Rintala",
+        "date": "2016-01-01"
+    },
+    {
+        "armiger": "Taipalsaari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Taipalsaari.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 aaltokoroisen tyvi\u00f6n yl\u00e4puolella tervah\u00f6yry; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1959-05-20"
+    },
+    {
+        "armiger": "Taivalkoski",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Taivalkoski.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 justeerisaha, t\u00e4m\u00e4n yl\u00e4puolella kuusikoroinen lakio; kaikki hopeaa.",
+        "artist": "Kaj Kajander",
+        "date": "1959-09-02"
+    },
+    {
+        "armiger": "Taivassalo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Taivassalo_vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultainen yksimastoinen purjealus, jonka purjeessa punainen Mantovan risti.",
+        "artist": "Olof Eriksson",
+        "date": "1954-02-11"
+    },
+    {
+        "armiger": "Tammela",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Tammela.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kolme tammenlehte\u00e4, joiden varret yhtyv\u00e4t haaruristiksi, varsien yhtym\u00e4kohdasta versoaa kummallekin sivulle terho; kaikki hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-12-29"
+    },
+    {
+        "armiger": "Tampere",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tampere.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 aaltokoroinen vastapalkki, jonka yl\u00e4puolella saatteena paaluttainen vasara ja alapuolella paaluttainen Merkuriuksen sauva; kaikki kultaa.",
+        "artist": "Olof Eriksson(vanhan vaakunan pohjalta)",
+        "date": "1960-06-16"
+    },
+    {
+        "armiger": "Tervo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tervo.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultakyljet ja viisi kultaista irtoriukua asetettuina 2:1:2.",
+        "artist": "Gustaf von Numers",
+        "date": "1963-09-19"
+    },
+    {
+        "armiger": "Tervola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tervola.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kokonaan hopeinen k\u00e4velev\u00e4 kurki, nokassaan hirsitt\u00e4inen kultasipuli.",
+        "artist": "Ahti Hammar",
+        "date": "1957-02-15"
+    },
+    {
+        "armiger": "Teuva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Teuva.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kaksi hopeista varstaa ristikk\u00e4in.",
+        "artist": "Ahti Hammar",
+        "date": "1953-04-20"
+    },
+    {
+        "armiger": "Tohmaj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tohmaj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 musta alasin, josta nousee punainen lieska.",
+        "artist": "Olof Eriksson",
+        "date": "2005-01-01"
+    },
+    {
+        "armiger": "Toholampi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Toholampi.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 alainen, musta, yl\u00e4puoleltaan oksakoroinen polviorsi; kustakin sakarasta nousee punainen tulenlieska.",
+        "artist": "Gustaf von Numers",
+        "date": "1952-05-28"
+    },
+    {
+        "armiger": "Toivakka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Toivakka.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 kylv\u00e4j\u00e4 hopeavaatteissa; kylv\u00f6vakka hihnoineen ja virsut kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1957-04-23"
+    },
+    {
+        "armiger": "Tornio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tornio.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 punainen kirkontorni, jonka katto keski- ja kulmahuippuineen sek\u00e4 ovi-, ikkuna- ja ampuma-aukot ovat siniset.",
+        "artist": "Olof Eriksson(piirt\u00e4nyt uudelleen)",
+        "date": "1958-06-12"
+    },
+    {
+        "armiger": "Turku",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Turku.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kultainen goottilainen A-kirjain, jonka ymp\u00e4rill\u00e4 nelj\u00e4 hopealiljaa 1 + 2 + 1.",
+        "artist": "Tauno Torppo (piirt\u00e4nyt uudelleen)",
+        "date": "1309"
+    },
+    {
+        "armiger": "Tuusniemi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tuusniemi.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 musta kaarityvi\u00f6, jolla seisoo musta, punahelttainen teeri, tyvi\u00f6ss\u00e4 kolme kultakruunua.",
+        "artist": "Gustaf von Numers",
+        "date": "1959-01-13"
+    },
+    {
+        "armiger": "Tuusula",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tuusula.vaakuna.svg",
+        "blazon": "Puna-hopealohkoisen kilven yl\u00e4kent\u00e4ss\u00e4 hopeinen pistoolinlukko ja alakent\u00e4ss\u00e4 vihre\u00e4 laakerinoksa, jonka marjat punaiset.",
+        "artist": "Olof Eriksson",
+        "date": "1953-01-28"
+    },
+    {
+        "armiger": "Tyrn\u00e4v\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tyrn%C3%A4v%C3%A4.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kolme hopeista punaovista latoa asetettuina 2 + 1.",
+        "artist": "Olof Eriksson",
+        "date": "1956-06-08"
+    },
+    {
+        "armiger": "Ulvila",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ulvila.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 kultainen Pyh\u00e4n Olavin kuva, k\u00e4siss\u00e4\u00e4n sotakirves ja valtakunnanomena, istumassa hopeisella valtaistuimella.",
+        "artist": "Ahti Hammar",
+        "date": "1952-10-29"
+    },
+    {
+        "armiger": "Urjala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Urjala.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 hopeinen apilaristi, jonka kustakin kulmasta l\u00e4htee kultainen liekki.",
+        "artist": "Toivo Vuorela",
+        "date": "1955-06-13"
+    },
+    {
+        "armiger": "Utaj\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Utaj%C3%A4rvi.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 hopeinen aaltokoroinen vastapalkki, jossa musta tervavene.",
+        "artist": "Olof Eriksson",
+        "date": "1955-06-07"
+    },
+    {
+        "armiger": "Utsjoki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Utsjoki.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 revontuli, jonka yl\u00e4puolella saatteena nelisakarainen t\u00e4hti; molemmat hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-04-20"
+    },
+    {
+        "armiger": "Uurainen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Uurainen.vaakuna.svg",
+        "blazon": "Vihre\u00e4ss\u00e4 kent\u00e4ss\u00e4 kultainen kaarikoroinen k\u00e4rki, jossa vihre\u00e4 suksisauvan sompa.",
+        "artist": "Tapio Vallioja",
+        "date": "1965-02-12"
+    },
+    {
+        "armiger": "Uusikaarlepyy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Uusikaarlepyy.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kilvess\u00e4 pystyyn asetettu kultainen tervatynnyri, jonka kannesta ja molemmista sivuista kultaiset, punakielekkeiset tulenlieskat l\u00e4htev\u00e4t.",
+        "artist": "Gunnar Cl\u00e9ment(piirt\u00e4nyt uudelleen)",
+        "date": "1943-11-19"
+    },
+    {
+        "armiger": "Uusikaupunki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Uusikaupunki.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 pystyss\u00e4 sel\u00e4tysten kaksi sinist\u00e4 haukea.",
+        "artist": "Ahti Hammar(piirt\u00e4nyt uudelleen)",
+        "date": "1960-01-04"
+    },
+    {
+        "armiger": "Vaala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vaala.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 alainen, kaateinen polviorsi, josta nousee kolmisakarainen torni; molemmat hopeaa.",
+        "artist": "Kaj Kajander",
+        "date": "1966-01-11"
+    },
+    {
+        "armiger": "Vaasa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vaasa.vaakuna2.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 kultainen Vaasain tunnus, sen alapuolella kulta-valkoinen vapaudenristi kultaisine laakeriseppeleineen ja miekkoineen riippumassa kultaisessa, kahdella punaisella viivalla kirjatussa nauhassa, joka ymp\u00e4r\u00f6i kilven alaosaa.",
+        "artist": "Eric O. W. Ehrstr\u00f6m(piirt\u00e4nyt uudelleen)",
+        "date": "1922-11-10"
+    },
+    {
+        "armiger": "Valkeakoski",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Valkeakoski.vaakuna.svg",
+        "blazon": "Punaisessa kilvess\u00e4 on vastaviistoon kulkeva hopeinen virta, jonka yl\u00e4kent\u00e4ss\u00e4 on kultainen kuusi ja alakent\u00e4ss\u00e4 kultainen hammasratas.",
+        "artist": "A. W. Rancken",
+        "date": "1948-04-23"
+    },
+    {
+        "armiger": "Vantaa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Vantaa.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 alainen, aaltokoroinen hopeahirsi, josta nousee oikealle kaartuva kultainen kalanpyrst\u00f6.",
+        "artist": "Kullervo Telamaa",
+        "date": "1951-05-08"
+    },
+    {
+        "armiger": "Varkaus",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Varkaus.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 esiinty\u00f6ntyv\u00e4 koukistettu k\u00e4sivarsi pidellen hirsitt\u00e4ist\u00e4 ankkuria; kaikki kultaa.",
+        "artist": "Olof Eriksson",
+        "date": "1954-04-03"
+    },
+    {
+        "armiger": "Vehmaa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vehmaa.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 punainen, ristisauvaa ja kirjaa pitelev\u00e4 ja vihre\u00e4\u00e4 lohik\u00e4\u00e4rmett\u00e4 polkeva Pyh\u00e4 Margareeta, jonka kasvot ja k\u00e4det luonnonv\u00e4ri\u00e4.",
+        "artist": "Ahti Hammar",
+        "date": "1958-02-19"
+    },
+    {
+        "armiger": "Vesanto",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Vesanto.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kultaiset viitosj\u00e4nteet.",
+        "artist": "Gustaf von Numers",
+        "date": "1968-01-03"
+    },
+    {
+        "armiger": "Vesilahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vesilahti.vaakuna.svg",
+        "blazon": "Hopea-punahalkoisen kilven oikeassa kent\u00e4ss\u00e4 punainen avain, sen vasemmassa kent\u00e4ss\u00e4 hopeinen kultavaruksinen kurki, jonka p\u00e4\u00e4laki on punainen ja pyrst\u00f6n sulat mustap\u00e4iset.",
+        "artist": "Gustaf von Numers",
+        "date": "1951-03-29"
+    },
+    {
+        "armiger": "Veteli",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Veteli.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 sininen paalu, jossa seitsenkielinen kultakantele; kielet punaiset.",
+        "artist": "Gustaf von Numers",
+        "date": "1952-04-21"
+    },
+    {
+        "armiger": "Vierem\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vierem%C3%A4.vaakuna.svg",
+        "blazon": "Mustassa kent\u00e4ss\u00e4 kaateinen polviorsi, jossa kasvaa havun oksa; molemmat kultaisia.",
+        "artist": "Aake Kaarnama",
+        "date": "1964-04-17"
+    },
+    {
+        "armiger": "Vihti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Vihti.vaakuna.svg",
+        "blazon": "Kultakent\u00e4ss\u00e4 aaltokoroinen, kaateinen polviorsi, jonka yl\u00e4puolelle saatteena vesipy\u00f6r\u00e4, molemmat siniset.",
+        "artist": "Gustaf von Numers",
+        "date": "1953-06-12"
+    },
+    {
+        "armiger": "Viitasaari",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Viitasaari.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 seitsem\u00e4n kokonaan hopeista uivaa muikkua asetettuina 1 + 2 + 1 + 2 + 1.",
+        "artist": "Olof Eriksson",
+        "date": "1952-08-05"
+    },
+    {
+        "armiger": "Vimpeli",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vimpeli.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kaksi hopeista suksea sel\u00e4tysten kaateisen polviorren tapaan asetettuna, saatteena niiden v\u00e4liss\u00e4 kultainen liekki.",
+        "artist": "Olof Eriksson",
+        "date": "1960-11-22"
+    },
+    {
+        "armiger": "Virolahti",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Virolahti.vaakuna.svg",
+        "blazon": "Kulta-apilakylv\u00f6isess\u00e4 punaisessa kent\u00e4ss\u00e4 paaluittainen hopea-ankkuri.",
+        "artist": "Olof Eriksson",
+        "date": "1951-07-11"
+    },
+    {
+        "armiger": "Virrat",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Virrat.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 aaltokoroiset kolmoisj\u00e4nteet, saatteena kummallakin puolella palkeittainen karhukeih\u00e4\u00e4nk\u00e4rki; kaikki hopeaa.",
+        "artist": "Olof Eriksson",
+        "date": "1954-02-15"
+    },
+    {
+        "armiger": "V\u00e5rd\u00f6",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/V%C3%A5rd%C3%B6.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen kartio, jossa kulta-punainen liekki.",
+        "artist": "Matts Dreijer",
+        "date": "1952-02-20"
+    },
+    {
+        "armiger": "V\u00f6yri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/V%C3%B6yri-Maksamaa.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 vedenhaltia pit\u00e4en oikeassa k\u00e4dess\u00e4\u00e4n kalaa ja vasemmassa apilanlehte\u00e4; kaikki hopeaa.",
+        "artist": "Gustaf von Numers",
+        "date": "2011-01-01"
+    },
+    {
+        "armiger": "Ylitornio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ylitornio.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 kolmoisvuoren yl\u00e4puolella aurinko, kumpikin punainen.",
+        "artist": "Jaakko H\u00e4nninen",
+        "date": "1954-04-05"
+    },
+    {
+        "armiger": "Ylivieska",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ylivieska.vaakuna.svg",
+        "blazon": "Hopeakent\u00e4ss\u00e4 sininen, apilap\u00e4inen haaruristi.",
+        "artist": "Ahti Hammar",
+        "date": "1955-06-20"
+    },
+    {
+        "armiger": "Yl\u00f6j\u00e4rvi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Yl%C3%B6j%C3%A4rvi.vaakuna.svg",
+        "blazon": "Punaisessa kent\u00e4ss\u00e4 haaruristi, jonka yl\u00e4kulmassa saatteena risti; molemmat kultaa.",
+        "artist": "Gustaf von Numers",
+        "date": "1954-05-12"
+    },
+    {
+        "armiger": "Yp\u00e4j\u00e4",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Yp%C3%A4j%C3%A4.vaakuna.svg",
+        "blazon": "Halkoisen kilven oikeassa sinisess\u00e4 kent\u00e4ss\u00e4 hopeinen maalaiskirkon kellotapuli, vasemmassa hopeisessa kent\u00e4ss\u00e4 punainen t\u00e4hk\u00e4.",
+        "artist": "Aukusti Tuhka",
+        "date": "1949-12-27"
+    },
+    {
+        "armiger": "\u00c4ht\u00e4ri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%84ht%C3%A4ri.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kaksi nuolta ristikk\u00e4in ja p\u00e4\u00e4llikkeen\u00e4 paaluittain kolmas nuoli; kaikki hopeaa; saatteena kummassakin sivukulmassa kultainen viisilehtinen kukka.",
+        "artist": "Ahti Hammar",
+        "date": "1951-10-25"
+    },
+    {
+        "armiger": "\u00c4\u00e4nekoski",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%C3%84%C3%A4nekoski.vaakuna.svg",
+        "blazon": "Sinisess\u00e4 kent\u00e4ss\u00e4 kolme lent\u00e4v\u00e4\u00e4 hopeakurkea, kesken\u00e4\u00e4n j\u00e4rjestettyin\u00e4 oikealle suunnatun k\u00e4rjen tapaan.",
+        "artist": "Olof Eriksson",
+        "date": "2007-01-01"
+    }
+]
