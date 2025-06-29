@@ -58,7 +58,6 @@ function Button({
 }
 
 function LinkButton({
-  className,
   href,
   label,
 }: {

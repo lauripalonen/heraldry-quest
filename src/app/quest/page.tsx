@@ -5,7 +5,6 @@ import { QuestionContent } from '@/components/QuestionContent';
 
 export default function Quest() {
     const coatOfArms = shuffle({ array: data });
-    const n = coatOfArms.length;
 
     return (
         <div className="py-8">
