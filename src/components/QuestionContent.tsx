@@ -1,6 +1,6 @@
 "use client";
 
-import React, { Suspense, useEffect } from "react";
+import React from "react";
 import Image from "next/image";
 import { AnswerForm } from "./AnswerForm";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "./ui/table";
