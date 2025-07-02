@@ -30,7 +30,7 @@ export default function RootLayout({
     <html lang="en" className="h-full">
       <body className={`${jacquard24.variable} ${lato.variable} antialiased h-full`}>
         <Header />
-        <main className="h-full">
+        <main className="pt-[var(--header-height-mobile)] md:pt-[var(--header-height)] h-full">
           {children}
           <Toaster position="top-right" />
         </main>
