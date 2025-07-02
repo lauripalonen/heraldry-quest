@@ -1,13 +1,12 @@
 import React from 'react';
-import data from '../../../data/data.json';
-import { shuffle } from '@/lib/utils';
 import { QuestionContent } from '@/components/QuestionContent';
+import { getCoatOfArms } from '../actions';
 
-export default function Quest() {
-    const coatOfArms = shuffle({ array: data });
+export default async function Quest() {
+    const coatOfArms = await getCoatOfArms()
 
     return (
-        <div className="py-8">
+        <div className="py-4">
             <QuestionContent coatOfArms={coatOfArms} />
         </div>
     )
