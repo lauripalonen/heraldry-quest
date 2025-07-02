@@ -32,7 +32,7 @@ export default function RootLayout({
         <Header />
         <main className="pt-[var(--header-height-mobile)] md:pt-[var(--header-height)] h-full">
           {children}
-          <Toaster position="top-right" />
+          <Toaster position="bottom-right" duration={2500} />
         </main>
       </body>
     </html>
