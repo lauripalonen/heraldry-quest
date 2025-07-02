@@ -11,7 +11,7 @@ import { Card, CardContent, CardHeader } from "./ui/card";
 
 
 export function QuestionContent({ coatOfArms }: { coatOfArms: { image_url: string, armiger: string }[] }) {
-    const [index, setIndex] = React.useState(307);
+    const [index, setIndex] = React.useState(0);
     const [score, setScore] = React.useState({ correct: 0, incorrect: 0 });
     const n = coatOfArms.length;
 
