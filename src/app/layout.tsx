@@ -19,6 +19,9 @@ const lato = Lato({
 export const metadata: Metadata = {
   title: "Heraldry Quest",
   description: "A coat of arms quiz.",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
