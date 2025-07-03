@@ -43,7 +43,7 @@ export function AnswerForm({ armiger, handleNext, handleScore }: { armiger: stri
 
     return (
         <Form {...form}>
-            <form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-2 justify-center">
+            <form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-row gap-2 items-end">
                 <FormField
                     control={form.control}
                     name="armiger"
