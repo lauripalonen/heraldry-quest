@@ -51,7 +51,7 @@ export function AnswerForm({ armiger, handleNext, handleScore }: { armiger: stri
                         <FormItem>
                             <FormLabel>Your answer:</FormLabel>
                             <FormControl>
-                                <Input {...field} />
+                                <Input {...field} autoFocus />
                             </FormControl>
                             <FormMessage />
                         </FormItem>
